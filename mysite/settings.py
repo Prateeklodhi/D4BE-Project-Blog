@@ -79,7 +79,7 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'prateeklodhigloitel@gmail.com'
-EMAIL_HOST_PASSWORD = 'cvnfmvvivitxdikb'
+EMAIL_HOST_PASSWORD = '************'
 EMAIL_PORT = 587
 EMAIL_USE_TLS =True
 
