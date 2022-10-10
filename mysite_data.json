@@ -1,0 +1,1043 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2022-09-21T17:59:06.426Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was Django Reinhard?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2022-09-21T18:46:37.489Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was Django Reinhard?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2022-09-21T18:48:14.277Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "who was Django Reinhard?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2022-09-22T17:08:09.663Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "who was Django Reinhard?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2022-09-23T03:01:24.894Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Another Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2022-09-23T03:01:32.032Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "One more post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2022-09-24T18:29:37.487Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Generations of Computers – Computer Fundamentals",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2022-09-24T18:30:43.193Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Central processing unit",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2022-09-28T11:19:07.489Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "2",
+    "object_repr": "Comment by Prateek on Central processing unit",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2022-09-29T07:04:26.902Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"who was Django Reinhard? tagged with django\"}}, {\"added\": {\"name\": \"tagged item\", \"object\": \"Another Post tagged with django\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2022-09-29T07:04:56.363Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"tagged item\", \"object\": \"None tagged with django\", \"fields\": [\"Object ID\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2022-09-29T10:43:05.152Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"name\": \"tagged item\", \"object\": \"One more post tagged with django\", \"fields\": [\"Object ID\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2022-09-29T10:43:19.699Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "1",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"Generations of Computers \\u2013 Computer Fundamentals tagged with django\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2022-09-30T06:01:51.921Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "2",
+    "object_repr": "music",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"One more post tagged with music\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2022-09-30T16:08:19.650Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Python | Uploading images in Django",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2022-10-01T05:38:40.574Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2022-10-01T07:12:42.962Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2022-10-01T07:13:21.986Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2022-10-01T07:13:40.519Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2022-10-07T09:56:01.379Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$320000$ZvJtPwvPRr4ZBtp9kChRNk$DwT/goUSYjPvKMjX+xQdhcIjWYWOHkKR098epvtZwyQ=",
+    "last_login": "2022-10-07T09:55:15.021Z",
+    "is_superuser": true,
+    "username": "admin",
+    "first_name": "",
+    "last_name": "",
+    "email": "",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2022-09-21T17:50:58.150Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "8mplga6ueobwhu6ksaeanikzmd115j0r",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEwvF269xvIwIBUDU1KuzL-uzbpQrf3nHNfLOK2triNssSJ2JlJdvrdEuZH6TugO_bbzPPc12VKfFf4QQe_zlSel8P9O2g42reuIhR0VQOImlBqRAFVq-QJsvRFatChQDaGXCZjlaKgvCUbQLvsDLD3B-gQN3E:1ogk4Z:jp72gcmIIwJ_WqdPWzX9XMjbd7n3AJtZgs_pU-I2pQo",
+    "expire_date": "2022-10-21T09:55:15.040Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "flozhrny6e6xvreucbvx8s4vnoz7756a",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xjYlfc5grXcXHECOFCcV4u4QKQW0b2beS2TY1pq3zkueSJyFFqffrQA-uO2A7tBus8S5rctU5K7Ig3Y5zsTPy-H-HVTo9VuD8sg6QYhYvLEUBkzRYQHLHFi7MlwTGA7KWB_AOktGo1OOozIEZMX7A-8mN_A:1obYw8:dykcfxBbnLZEjR-8PDo_6bxTr31AH86m6ExY8gS-luA",
+    "expire_date": "2022-10-07T03:01:08.509Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "jt1sihltwg7iom62wg8enmm6jac53btu",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEwvF269xvIwIBUDU1KuzL-uzbpQrf3nHNfLOK2triNssSJ2JlJdvrdEuZH6TugO_bbzPPc12VKfFf4QQe_zlSel8P9O2g42reuIhR0VQOImlBqRAFVq-QJsvRFatChQDaGXCZjlaKgvCUbQLvsDLD3B-gQN3E:1oeV7w:OFDJ8bWCkxNggn_73YkwpaFmEnkt3VWkbuMT2v7RrGQ",
+    "expire_date": "2022-10-15T05:33:28.516Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "lpb5gpvvwz2gzkzjbbttm948e8cebo4m",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQRe_C2hBLKTAu3XsGMswwUjU0Ke3KeHfbpAvd_vfef6uI61Li2vIcR1YX1anT75aQnrnugB9Y75OmqS7zmPSu6IM2fZs4v66H-3dQsJWt9ogsPfXOEqOTwAGCOMGByUo3CFgB36fO-mDAA-V0NmZzYBDKIVn1-QII-jhp:1oeIXe:LKXLRIdrs0twruUI8GBYfLgzaVdJOfHUb9xIwllvxGk",
+    "expire_date": "2022-10-14T16:07:10.430Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "n84oeip6tgt57gpaoligh8nite16pyyo",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xjYlfc5grXcXHECOFCcV4u4QKQW0b2beS2TY1pq3zkueSJyFFqffrQA-uO2A7tBus8S5rctU5K7Ig3Y5zsTPy-H-HVTo9VuD8sg6QYhYvLEUBkzRYQHLHFi7MlwTGA7KWB_AOktGo1OOozIEZMX7A-8mN_A:1obOwc:Ej3OZ-6EYOJoWOa69RJkA-nzY45kGvaUi4SHvxbQsDg",
+    "expire_date": "2022-10-06T16:20:58.926Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "qb5tgua8a7e79cmi1jprtk8cdxb8gn16",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGln-xjYlfc5grXcXHECOFCcV4u4QKQW0b2beS2TY1pq3zkueSJyFFqffrQA-uO2A7tBus8S5rctU5K7Ig3Y5zsTPy-H-HVTo9VuD8sg6QYhYvLEUBkzRYQHLHFi7MlwTGA7KWB_AOktGo1OOozIEZMX7A-8mN_A:1ob3u3:vDo-faUy-chwHJYayXab45wi8zobslb1f5_rOmv5-1g",
+    "expire_date": "2022-10-05T17:52:55.870Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "swjczfup6k8m4gmc1h8f6t1m38tzy0e4",
+  "fields": {
+    "session_data": ".eJxVjMEOwiAQRP-FsyFAZQMevfsNZGEXqRpISnsy_rs06UFvM_Nm5i0CbmsJW-clzCQuQovTbxYxPbnugB5Y702mVtdljnKvyIN2eWvEr-vR_Tso2MtYIwBlhwqy96gYlT8TkxuOAaKdCMDmFIm0Nw6cyZOCoSxbPRlHJD5f-ng3-g:1oc9t3:QIB7YcfoWu8aSqJN3OtpoxgFF5s03nWUjITU0V3RVfU",
+    "expire_date": "2022-10-08T18:28:25.413Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "who was Django Reinhard?",
+    "slug": "who-was-django-reinhard",
+    "author": 1,
+    "body": "I don't Know What to write in body Can you tell me what should I do?",
+    "publish": "2022-09-21T17:57:50Z",
+    "created": "2022-09-21T17:59:06.401Z",
+    "updated": "2022-09-22T17:08:09.635Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Another Post",
+    "slug": "another-post",
+    "author": 1,
+    "body": "post body",
+    "publish": "2022-09-22T05:48:10Z",
+    "created": "2022-09-22T05:48:15.053Z",
+    "updated": "2022-09-23T03:01:24.874Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "One more post",
+    "slug": "one-more-post",
+    "author": 1,
+    "body": "one more post body.",
+    "publish": "2022-09-22T06:19:56Z",
+    "created": "2022-09-22T06:19:56.697Z",
+    "updated": "2022-09-23T03:01:32.014Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Generations of Computers – Computer Fundamentals",
+    "slug": "generations-of-computers-computer-fundamentals",
+    "author": 1,
+    "body": "The modern computer took its shape with the arrival of your time. It had been around 16th century when the evolution of the computer started. The initial computer faced many changes, obviously for the betterment. It continuously improved itself in terms of speed, accuracy, size, and price to urge the form of the fashionable day computer. This long period is often conveniently divided into the subsequent phases called computer generations:  First Generation Computers (1940-1956) Second Generation",
+    "publish": "2022-09-24T18:28:50Z",
+    "created": "2022-09-24T18:29:37.459Z",
+    "updated": "2022-09-24T18:29:37.459Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Central processing unit",
+    "slug": "central-processing-unit",
+    "author": 1,
+    "body": "A central processing unit (CPU), also called a central processor, main processor or just processor, is the electronic circuitry that executes instructions comprising a computer program. The CPU performs basic arithmetic, logic, controlling, and input/output (I/O) operations specified by the instructions in the program. This contrasts with external components such as main memory and I/O circuitry,[1] and specialized processors such as graphics processing units (GPUs).  The form, design, and imple",
+    "publish": "2022-09-24T18:29:48Z",
+    "created": "2022-09-24T18:30:43.161Z",
+    "updated": "2022-09-24T18:30:43.161Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Python | Uploading images in Django",
+    "slug": "python-uploading-images-in-django",
+    "author": 1,
+    "body": "In most of the websites, we often deal with media data such as images, files etc. In django we can deal with the images with the help of model field which is ImageField.  In this article, we have created the app image_app in a sample project named image_upload.  The very first step is to add below code in the settings.py file.",
+    "publish": "2022-09-30T16:07:28Z",
+    "created": "2022-09-30T16:08:19.585Z",
+    "updated": "2022-09-30T16:08:19.586Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n----------------------------------------------------------------\r\n\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n* Two\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/)",
+    "publish": "2022-10-01T05:35:47Z",
+    "created": "2022-10-01T05:38:40.559Z",
+    "updated": "2022-10-01T07:13:40.509Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 5,
+    "name": "Prateek",
+    "email": "mailprateeklodhi@gmail.com",
+    "body": "hello",
+    "created": "2022-09-28T11:11:45.177Z",
+    "updated": "2022-09-28T11:11:45.177Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 6
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+}
+]
