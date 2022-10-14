@@ -10,12 +10,8 @@ class PostAdmin(admin.ModelAdmin):
     raw_id_fields = ['author']
     date_hierarchy = 'publish'
     ordering = ['status','publish']
-
 # admin.site.register(Post)
-
-
 @admin.register(Comment)
-
 class CommentAdmin(admin.ModelAdmin):
     list_display = ['name','email','post','created','active']
     list_filter = ['active','created','updated']
